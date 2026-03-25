@@ -59,3 +59,8 @@ Repozitorij sadrži:
 - projektnu dokumentaciju (PDF)
 - prikaz ERA modela
 - primjere SQL upita i okidača
+
+Napomena: Projekt nije pripremljen za pokretanje jer repozitorij sadrži dokumentacijsku verziju rada.
+
+## Autor
+Ante Marić
